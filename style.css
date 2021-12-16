@@ -1,0 +1,18 @@
+section {
+  display: grid;
+  grid-template-columns: 4fr 4fr 4fr 4fr 4fr 4fr 4fr;
+  padding: 15px;
+  gap: 10px;
+  background-color: steelblue;
+}
+body {
+  background-color: steelblue;
+}
+.pokemon {
+  border: 1px solid black;
+  background-color: lightslategray;
+  color:whitesmoke ;
+  border-radius: 5px;
+  text-align: center;
+  padding: 5px;
+}
